@@ -1,0 +1,17 @@
+{
+    "tasks": [
+
+        {
+            "id": "1",
+            "text": "buy milk with some water"
+        },
+        {
+            "id": "2",
+            "text": "cat die in water"
+        },
+        {
+            "id": "3",
+            "text": "dont go near water"
+        }
+    ]
+}
