@@ -1,57 +1,9 @@
 {
   "tasks": [
     {
-      "id": "1",
-      "text": "buy milk with some water"
-    },
-    {
-      "id": "2",
-      "text": "cat die in water"
-    },
-    {
-      "id": "3",
-      "text": "dont go near water"
-    },
-    {
-      "id": "3",
-      "text": "go to gym"
-    },
-    {
-      "id": "3",
-      "text": "go to drink water"
-    },
-    {
-      "id": "3",
-      "text": "go to have ganja"
-    },
-    {
-      "id": "3",
-      "text": "go to have milk"
-    },
-    {
-      "id": "3",
-      "text": "go to drug"
-    },
-    {
-      "id": "3",
-      "text": "go to toilet"
-    },
-    {
-      "id": "3",
-      "text": "learn math"
-    },
-    {
-      "id": "3",
-      "text": "ganja"
-    },
-    {
-      "id": "5df9377d-5999-4050-9278-005028540ad0",
-      "text": "learn to walk"
-    },
-    {
-      "id": "de3b3deb-e498-40a8-ad14-e378f139e0d9",
-      "text": "adsad",
-      "time": "03:06"
+      "id": "44c5654a-02be-4abc-ab84-fa679a5070d5",
+      "text": "go to wash",
+      "time": "04:22"
     }
   ]
 }
