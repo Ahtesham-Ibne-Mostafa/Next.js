@@ -7,13 +7,13 @@ export default async function Home() {
   console.log(tasks);
 
   return (
-    <main classname= 'max-w-4xl mx-auto mt-4'>
-      <div className="text-center my-5 flex flex-col gap-4">
-        <h1 className="text-4xl font-bold">TO-DO</h1>
-        <p className="text-lg">Simple TO-DO App for leraning Next.js</p>
-        <AddTask />
+    <main className="text-center my-5 flex flex-col gap-4 items-center">
+      <h1 className="text-4xl font-bold">TO-DO</h1>
+      <p className="text-lg">Simple TO-DO App for learning Next.js</p>
+      <AddTask />
+      <div className="flex items-center justify-center w-full">
+        <TodoList tasks={tasks} />
       </div>
-      <TodoList />
     </main>
   );
 }
